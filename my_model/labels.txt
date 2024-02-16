@@ -1,0 +1,8 @@
+0 beau_s line
+1 black line
+2 clubbing
+3 mees_ line
+4 normal
+5 onycholysis
+6 terry_s nail
+7 white spot
